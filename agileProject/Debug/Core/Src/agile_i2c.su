@@ -1,0 +1,5 @@
+../Core/Src/agile_i2c.c:8:6:i2c_init	8	static
+../Core/Src/agile_i2c.c:30:6:i2c_start	4	static
+../Core/Src/agile_i2c.c:36:6:i2c_sendData	16	static
+../Core/Src/agile_i2c.c:43:6:i2c_sendAddress	24	static
+../Core/Src/agile_i2c.c:51:6:i2c_receive	24	static

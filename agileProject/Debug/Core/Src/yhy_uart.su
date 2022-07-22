@@ -1,0 +1,4 @@
+../Core/Src/yhy_uart.c:15:6:yhy_uart_init	16	static
+../Core/Src/yhy_uart.c:38:6:yhy_uart_refresh	4	static
+../Core/Src/yhy_uart.c:43:6:yhy_uart_write	24	static
+../Core/Src/yhy_uart.c:59:6:yhy_uart_read	4	static

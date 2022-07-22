@@ -1,0 +1,4 @@
+../Core/Src/bmp180.c:33:6:bmp180_baslat	8	static
+../Core/Src/bmp180.c:39:13:bmp180_parametreAl	8	static
+../Core/Src/bmp180.c:56:13:bmp180_hamSicaklik_al	8	static
+../Core/Src/bmp180.c:65:8:bmp180_sicaklikAl	40	static
